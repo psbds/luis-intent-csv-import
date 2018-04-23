@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psbds.LUIS.IntentCSVImport.Console", "Psbds.LUIS.IntentCSVImport.Console\Psbds.LUIS.IntentCSVImport.Console.csproj", "{824D27AC-3179-4306-B515-9A563CEADEB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psbds.LUIS.IntentCSVImport.Core", "Psbds.LUIS.IntentCSVImport.Core\Psbds.LUIS.IntentCSVImport.Core.csproj", "{A4139377-CBC7-405D-9663-52318F8979D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{824D27AC-3179-4306-B515-9A563CEADEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824D27AC-3179-4306-B515-9A563CEADEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824D27AC-3179-4306-B515-9A563CEADEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824D27AC-3179-4306-B515-9A563CEADEB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4139377-CBC7-405D-9663-52318F8979D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4139377-CBC7-405D-9663-52318F8979D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4139377-CBC7-405D-9663-52318F8979D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4139377-CBC7-405D-9663-52318F8979D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D94204E-A3B3-4854-A191-0E59B554D9AD}
+	EndGlobalSection
+EndGlobal
